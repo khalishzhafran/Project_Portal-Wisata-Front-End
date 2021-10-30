@@ -1,12 +1,7 @@
-<template>
-  <router-view />
-</template>
-
-<style>
-/* @font-face {
+@font-face {
   font-family: "Poppins";
-  src: url("E:/ZEVA PUNYA/Font/Poppins-Regular.ttf");
-} */
+  src: url("E:/ZEVA PUNYA/Font/Poppins-Regular.ttf");  
+}
 
 * {
   font-family: "Poppins", sans-serif;
@@ -102,4 +97,3 @@ body {
   background-color: #f5365c;
   border-color: #f5365c;
 }
-</style>

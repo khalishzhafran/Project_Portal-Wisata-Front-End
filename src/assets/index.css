@@ -1,0 +1,76 @@
+.navbar {
+    padding-top: 0.75em !important;
+}
+
+.navbar-brand{
+    font-size: 1.5em;
+}
+
+.card-post {
+    width: 100%;
+    margin-bottom: 2em;
+    border-radius: 15px;
+}
+
+.card-post .card-body {
+    padding: 0 1em 1em;
+}
+
+.card-post .card-img-top {
+    padding: 0.8em;
+}
+
+.card-post .profile img {
+    width: 20px;
+    height: 20px;
+    border: 50%;
+    vertical-align: text-top;
+    margin-right: 5px;
+}
+
+.card-post .profile a {
+    text-decoration: none;
+    color: unset;
+}
+
+.banner .cover-image, .banner .profile-image {
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
+
+.banner .cover-image {
+    height: 350px;
+    background: salmon;
+    background-image: url("../images/cover.jpg");
+}
+
+.banner .profile-image {
+    width: 225px;
+    height: 225px;
+    background-image: url("../images/avatar.png");
+    border-radius: 50%;
+    border: 8px solid white;
+    margin: -115px auto 0 auto;
+}
+
+.auth-container, .auth-container .row {
+    height: 100vh;
+}
+
+.auth-container .row {
+    align-items: center;
+    justify-content: center;
+}
+
+.auth-container .login {
+    padding: 2em;
+    background: white;
+    border-radius: 15px;
+}
+
+.login img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
