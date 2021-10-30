@@ -1,4 +1,4 @@
-# infestgram
+# INFEST Project Vue
 
 ## Project setup
 ```
